@@ -32,6 +32,9 @@ description: >-
   clinical centers worldwide. Surfaced as a portfolio company of the venture firm Qiming and added to
   the API Evangelist network; it publishes a corporate website but no public API or developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/jacobiopharma/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Surfaced as a portfolio company of the venture firm Qiming and added to the API Evangelist network; it publishes a corporate website but no public API or developer surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
